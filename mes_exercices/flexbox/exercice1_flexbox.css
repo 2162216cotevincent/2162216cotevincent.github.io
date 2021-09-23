@@ -1,0 +1,44 @@
+#flexboxTableau
+{
+    display:flex;
+     
+    background-color: darkgrey;
+    min-height: 100vh;
+
+}
+
+#nav
+{
+   
+    background-color: darkorchid;
+   
+}
+
+#header
+{
+     
+    background-color: greenyellow;
+    min-height: 20vh;
+    
+}
+
+#article
+{
+    
+    background-color: red;
+    min-height: 60vh;
+}
+
+#aside
+{
+   
+    background-color: orangered;
+    min-height: 60vh;
+}
+
+#footer
+{
+    
+    background-color: pink;
+    min-height: 20vh;
+}
